@@ -2,7 +2,8 @@
 A simple Java stand-alone designed to make your documents plagarism free.
 
 ## Run It!
-What do you need to run this? Regardless of whether you're on Windows, Linux or Mac this utility just requires **Java** to be installed on your system or you're gonna be presented with a weird response. (duh!) Also, the supplied file must be only a **.txt**. Run the batch `forger.bat` supplying the path to your **.txt** file. Your command should then look something like,
+What do you need to run this? Regardless of whether you're on Windows, Linux or Mac this utility just requires **Java** to be installed on your system or you're gonna be presented with a weird response. (duh!) Also, the supplied file must be only a **.txt**.
+There's a simple batch program bundled for you **Windows** fanboys. Run the batch `forger.bat` supplying the path to your .txt file. Your command should then look something like,
 ```
 forger.bat "C:\Users\theGeekyLad\Documents\foo.txt"
 ```
