@@ -6,4 +6,4 @@ What do you need to run this? Regardless of whether you're on Windows, Linux or 
 ```
 forger.bat "C:\Users\theGeekyLad\Documents\foo.txt"
 ```
-If you've got Java setup rightly on your machine, and if the supplied file is nothing but a **.txt**, you're gonna be presented with a gorgeous success message, bingo. In all other cases, prepare to get surprised with exceptions!
+If you've got Java setup rightly on your machine, and if the supplied file is nothing but a .txt, you're gonna be presented with a gorgeous success message, bingo. In all other cases, prepare to get surprised with exceptions!
