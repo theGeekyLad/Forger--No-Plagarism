@@ -1,5 +1,5 @@
 # Forger
-A simple Java stand-alone designed to make your documents plagarism free.
+A simple Java stand-alone designed to make your documents plagiarism free.
 
 ## Run It!
 What do you need to run this? Regardless of whether you're on Windows, Linux or Mac this utility just requires **Java** to be installed on your system or you're gonna be presented with a weird response. (duh!) Also, the supplied file must be only a **.txt**.
