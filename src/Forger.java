@@ -28,7 +28,7 @@ public class Forger {
         map.put('s', '\u0455');
         map.put('i', '\u0456');
         map.put('j', '\u0458');
-        map.put('w', '\u0461');
+        // map.put('w', '\u0461');
         map.put('Y', '\u04AE');
         //map.put('h', '\u04BB');
         //map.put('l', '\u04C0');
@@ -67,7 +67,7 @@ public class Forger {
 
     public static void main(String[] args) {
         Forger forger = new Forger();
-        if (forger.forge(new File("C:\\Users\\Public\\Documents\\Sample.txt")))
+        if (forger.forge(new File(args[0])))
             System.out.println("Forge complete.");
         else
             System.out.println("Forge failed.");
